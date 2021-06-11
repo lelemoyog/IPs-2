@@ -15,7 +15,7 @@
         <img src="img/Akan.png" alt="akan">
     </div>
 <div class="container-md">
-    <h1  style="background-color: black; color: white;"> Your akan name is:</h1>
+    <h1  style="background-color: black; color: white;"> Your akan name is:<p id="akan"></p></h1>
 </div>
 <div class="container-md">
     <p style="background-color: black; color: white;"><em>The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which
@@ -29,12 +29,12 @@
     <form>
         <div class="input-group">
             <span class="input-group-text">Date of birth</span>
-            <input type="number" class="form-control" placeholder="date">
-            <input type="number" class="form-control" placeholder="month">
-            <input type="number" class="form-control" placeholder="century">
-            <input type="number" class="form-control" placeholder="year">
+            <input id="id-1" type="number" class="form-control" placeholder="date">
+            <input id="id-2" type="number" class="form-control" placeholder="month">
+            <input id="id-3" type="number" class="form-control" placeholder="century">
+            <input id="id-4" type="number" class="form-control" placeholder="year">
             <br>
-            <select name="cars" class="custom-select">
+            <select name="cars" class="custom-select" id="id-5">
                 <option selected>Gender</option>
                 <option value="male">Male</option>
                 <option value="female">Female</option>
@@ -43,7 +43,8 @@
     
         </div>
         <div>
-            <button>calculate</button>
+            <button onclick="document.getElementById ('akan').innerHTML=type " >calculate</button>
+            
         </div>
     
     
@@ -53,7 +54,7 @@
 
 
 
-
+     <script src="script.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
         integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p"
