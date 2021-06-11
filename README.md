@@ -1,13 +1,15 @@
 # Ghanian Akhan name generator web application.
-#### a web application , version-1 2/6/2021.
+#### a web application that takes your birthday as input and gives your Akhana name, version-1 2/6/2021.
 #### By saitemu issa
 ## Description
-This is a web appication ment to show my software developer portfolio
+This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
+
+
 ## Setup/Installation Requirements
 * git init 
 * git clone https://github.com/lelemoyog/IPs-1.git
 *see and use code.
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+
 ## Known Bugs
 no known bugs
 ## Technologies Used
