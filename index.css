@@ -10,6 +10,11 @@ form {
     width: 500px;
     text-align: center;
 
+    
+    height: 100px;
+    width: 500px;
+    text-align: center;
+    
      
 }
 p{
@@ -21,7 +26,11 @@ button{
      background-color: rgb(134, 139, 148);
      transition-duration: 0.4s;
      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+<<<<<<< HEAD
      ;
+=======
+
+>>>>>>> ec360e812583062123d974017ea66610418bbc58
       border-radius: 50%;
      
 }
