@@ -7,14 +7,16 @@ This is a web application that takes a user's birthday and calculates the day of
 
 ## Setup/Installation Requirements
 * git init 
-* git clone https://github.com/lelemoyog/IPs-1.git
+* git clone  https://github.com/lelemoyog/IPs-2.git
 *see and use code.
+gh-pages - lelemoyog.github.io/ips-2/
 
 ## Known Bugs
 no known bugs
 ## Technologies Used
 1.HTML.
 2.CSS.
+3.js
 ## Support and contact details
 issasaitemu@gmail.com
 ### License
