@@ -35,32 +35,27 @@
 
      </div>
 <div class="container">
-    <form id="form1" style="width: auto;">
-        <div class="input-group">
-            <span class="input-group-text">Date of birth</span>
-            <input id="id-1" type="number" class="form-control" placeholder="dd">
-            <input id="id-2" type="number" class="form-control" placeholder="mm">
-            <input id="id-3" type="number" class="form-control" placeholder="cc">
-            <input id="id-4" type="number" class="form-control" placeholder="yy">
-            <br>
-            <select name="cars" class="custom-select" id="id-5">
-                <option selected>Gender</option>
-                <option value="male">Male</option>
-                <option value="female">Female</option>
-    
-            </select>
-    
-        </div>
-        <div>
-
-            <button type="submit" onclick="submit() " >calculate</button>
-           
-
-            
-        </div>
-    
-    
-    </form>
+    <form>
+<div class="input-group">
+    <span class="input-group-text">DATE OF BIRTH:</span>
+    <input id="id-1" type="number" aria-label="First name" class="form-control" placeholder="dd">
+    <input id="id-2" type="number" aria-label="Last name" class="form-control" placeholder="mm">
+    <input id="id-3" type="number" aria-label="First name" class="form-control" placeholder="cc">
+    <input id="id-4" type="number" aria-label="Last name" class="form-control" placeholder="yy">
+</div>
+<div>
+    <select id="id-5" class="form-select" aria-label="gender">
+      <option selected>gender</option>
+      <option value="1">male</option>
+      <option value="2">female</option>
+    </select>
+</div>
+<div>
+    <Button type="submit" onclick="calculate()">
+        calculate
+    </Button>
+</div>
+  </form>
 
 </div>
 
