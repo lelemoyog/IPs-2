@@ -17,12 +17,12 @@ if(yourDayOfWeek == 1){
 
 if (gender == "male"){
 
-     alert("your akana name is" +maleAkanaNames[0]);
+     alert("your akan name is" +maleAkanaNames[0]);
 
 }
 else if(gender == "female"){
          
-      alert("your akana name is" +femaleAkanaNames[0]);
+      alert("your akan name is" +femaleAkanaNames[0]);
 }
 else{
          alert("No Kwasi Name for you");
@@ -36,12 +36,12 @@ else if(yourDayOfWeek == 2){
 
 if (gender == "male"){
 
-     alert("your akana name is" +maleAkanaNames[1]);
+     alert("your akan name is" +maleAkanaNames[1]);
 
 }
 else if(gender == "female"){
          
-      alert("your akana name is" +femaleAkanaNames[1]);
+      alert("your akan name is" +femaleAkanaNames[1]);
 }
 else{
          alert("No Kwasi Name for you");
@@ -55,12 +55,12 @@ else if(yourDayOfWeek == 3){
 
 if (gender == "male"){
 
-     alert("your akana name is" +maleAkanaNames[2]);
+     alert("your akan name is" +maleAkanaNames[2]);
 
 }
 else if(gender == "female"){
          
-      alert("your akana name is" +femaleAkanaNames[2]);
+      alert("your akan name is" +femaleAkanaNames[2]);
 }
 else{
          alert("No Kwasi Name for you");
@@ -74,12 +74,12 @@ else if(yourDayOfWeek == 4){
 
 if (gender == "male"){
 
-     alert("your akana name is" +maleAkanaNames[3]);
+     alert("your akan name is" +maleAkanaNames[3]);
 
 }
 else if(gender == "female"){
          
-      alert("your akana name is" +femaleAkanaNames[3]);
+      alert("your akan name is" +femaleAkanaNames[3]);
 }
 else{
          alert("No Kwasi Name for you");
@@ -93,12 +93,12 @@ else if(yourDayOfWeek == 5){
 
 if (gender == "male"){
 
-     alert("your akana name is" +maleAkanaNames[4]);
+     alert("your akan name is" +maleAkanaNames[4]);
 
 }
 else if(gender == "female"){
          
-      alert("your akana name is" +femaleAkanaNames[4]);
+      alert("your akan name is" +femaleAkanaNames[4]);
 }
 else{
          alert("No Kwasi Name for you");
@@ -112,12 +112,12 @@ else if(yourDayOfWeek == 6){
 
 if (gender == "male"){
 
-     alert("your akana name is" +maleAkanaNames[5]);
+     alert("your akan name is" +maleAkanaNames[5]);
 
 }
 else if(gender == "female"){
          
-      alert("your akana name is" +femaleAkanaNames[5]);
+      alert("your akan name is" +femaleAkanaNames[5]);
 }
 else{
          alert("No Kwasi Name for you");
