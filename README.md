@@ -9,7 +9,7 @@ This is a web application that takes a user's birthday and calculates the day of
 * git init 
 * git clone  https://github.com/lelemoyog/IPs-2.git
 *see and use code.
-gh-pages - lelemoyog.github.io/ips-2/
+gh-pages - https://lelemoyog.github.io/IPs-2/
 
 ## Known Bugs
 no known bugs
