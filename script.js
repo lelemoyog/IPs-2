@@ -4,7 +4,7 @@ var dd= document.getElementById("id-1").value;
 var mm= document.getElementById("id-2").value;
 var cc= document.getElementById("id-3").value;
 var yy= document.getElementById("id-4").value;
-var gender= prompt("what is your gender?").value;
+var gender= document.getElementById("id-5").value;
 var maleAkanaNames=["Kwasi", "Kwadwo", "Kwabena", "Kwaku", " Yaw", "kofi", "Kwame"]
 var femaleAkanaNames=["akosua", "Adwoa", "Abenaa", "akua", "yaa", "afua", "ama"]
 
