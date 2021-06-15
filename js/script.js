@@ -1,5 +1,7 @@
 function calculate(){
 
+   $("#p2").show();   
+
 var dd= document.getElementById("id-1").value;
 var mm= document.getElementById("id-2").value;
 var cc= document.getElementById("id-3").value;
